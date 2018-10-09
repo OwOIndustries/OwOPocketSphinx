@@ -1,6 +1,2 @@
-About
-=====
-
-This is a demonstration for Pocketsphinx on Android
-
-See for details http://cmusphinx.sourceforge.net/wiki/tutorialandroid
+# OwO project for integrating Pocket Sphinx in Android.
+- The idea is that the user is able to speak to OwO without needing to touch the screen
